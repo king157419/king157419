@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
+  <!-- Replace "King157419" with your real name if you prefer -->
+  <h1>Hi, I'm King157419 👋</h1>
+  
+  <h3>🤖 AI Student @ Shanghai University (Class of '24)</h3>
+  
+  <p>
+    <b>Focusing on Soft-Hard Integration & AI Agent Development</b>
+  </p>
+  
+  <p>
+    Python Developer • Full-Stack Enthusiast • Open Source Contributor
+  </p>
 
-<!--
-**king157419/king157419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  <!-- Internship Badge -->
+  <a href="mailto:assshu111@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Internship-success?style=for-the-badge&logo=linkedin&color=98C379" alt="Open to Internship">
+  </a>
+  <a href="mailto:assshu111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-assshu111%40gmail.com-blue?style=for-the-badge&logo=gmail&color=61AFEF" alt="Email">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 👨‍💻 About Me
+
+- 🎓 **Education**: Senior student majoring in **Artificial Intelligence** at Shanghai University.
+- 🔭 **Focus**: Specializing in **Hardware-Software Integration** and **AI Agents**.
+- 🌱 **Currently Learning**: RAG architectures, Large Language Model applications, and Edge AI.
+- 💼 **Goal**: Actively looking for **Internship opportunities** in AI Algorithms or Full-Stack Development.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Core & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blueviolet?style=flat-square) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Backend & DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|:---|:---|:---:|
+| **[FastLearn](https://github.com/king157419/FastLearn)** | **AI-Powered Learning Assistant**. <br>A personalized learning assistant featuring Solve, Question, and Guide modules tailored for students. | `Python` `TypeScript` `Full-Stack` |
+| **[rag](https://github.com/king157419/rag)** | **Retrieval-Augmented Generation**. <br>Implementation of RAG systems to enhance LLM capabilities with external knowledge bases. | `Python` `LLM` |
+| **[stgcn](https://github.com/king157419/stgcn)** | **Spatio-Temporal Graph ConvNet**. <br>Deep learning model implementation for processing complex spatial and temporal data structures. | `Deep Learning` `Python` |
+| **[robo](https://github.com/king157419/robo)** | **Robotics Control System**. <br>Hardware-software integration scripts for robot automation and control. | `Hardware` `Python` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=king157419&show_icons=true&theme=pastel&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king157419&layout=compact&theme=pastel&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king157419&theme=pastel&hide_border=true" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i> 🤝
+</div>
